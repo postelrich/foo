@@ -1,0 +1,7 @@
+[run]
+omit =
+    foo/_version.py
+    foo/versioneer.py
+    foo/setup.py
+    foo/tests/test*
+    foo/*/tests/test*
